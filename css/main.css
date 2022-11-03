@@ -527,7 +527,7 @@ select {
 	vertical-align: middle;
 	color: #313131;
 	font-family: "poppins-regular", sans-serif;
-	font-size: 3.1rem;
+	font-size: 3.1grem;
 	line-height: 3rem;
 	max-width: 100%;
 	background: transparent;
@@ -1356,7 +1356,7 @@ header .logo a {
 }
 .intro-content .intro-position {
 	font-family: "lora-regular", serif;
-	font-size: 1.7rem;
+	font-size: 2rem;
 	line-height: 2.4rem;
 	text-transform: uppercase;
 	letter-spacing: .2rem;
@@ -1365,6 +1365,7 @@ header .logo a {
 }
 .intro-content .intro-position span {
 	display: inline-block;
+	padding-top: 5rem;
 }
 .intro-content .intro-position span::after {
 	content: "|";
@@ -1387,7 +1388,7 @@ header .logo a {
 	line-height: 5.4rem !important;
 	padding: 0 3.5rem 0 3rem !important;
 	margin-top: .6rem;
-	font-size: 1.3rem;
+	font-size: 2.5rem;
 	text-transform: uppercase;
 	letter-spacing: .25rem;
 }
@@ -1437,7 +1438,7 @@ header .logo a {
 		font-size: 1.6rem;
 	}
 	.intro-social {
-		font-size: 3rem;
+		font-size: 10px;
 	}
 	.intro-social li {
 		margin: 0 15px;
