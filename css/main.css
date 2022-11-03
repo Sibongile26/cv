@@ -527,7 +527,7 @@ select {
 	vertical-align: middle;
 	color: #313131;
 	font-family: "poppins-regular", sans-serif;
-	font-size: 1.5rem;
+	font-size: 3.1rem;
 	line-height: 3rem;
 	max-width: 100%;
 	background: transparent;
@@ -1043,7 +1043,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 }
 .section-intro h5 {
 	color: #FF0077;
-	font-size: 1.6rem;
+	font-size: 3.6rem;
 	line-height: 1.875;
 	margin-bottom: 0.3rem;
 	letter-spacing: .4rem;
@@ -2423,7 +2423,7 @@ header .logo a {
 .contact-info {
 	margin: 4.8rem auto 0;
 	font-family: "poppins-regular", sans-serif;
-	font-size: 1.5rem;
+	font-size: 3rem;
 	text-align: center;
 }
 .contact-info .collapse {
@@ -2504,7 +2504,7 @@ header .logo a {
  */
 footer {
 	padding-bottom: 3rem;
-	font-size: 1.4rem;
+	font-size: 3rem;
 	font-family: "poppins-regular", sans-serif;
 }
 footer a, footer a:visited {
