@@ -1237,7 +1237,7 @@ header .logo a {
 	padding: 24px 30px 42px;
 	margin: 0;
 	width: 100%;
-	height: 25rem;
+	height: 43rem;
 	clear: both;
 	display: none;
 }
@@ -2349,7 +2349,7 @@ header .logo a {
 #contact input[type="text"],
 #contact input[type="password"],
 #contact input[type="email"] {
-	height: 6.6rem;
+	height: 9rem;
 	padding: 1.8rem 2rem;
 }
 #contact input[type="text"]:focus,
