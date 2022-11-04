@@ -72,8 +72,9 @@ html, body {
 body {
 	background: #151515;
 	font-family: "lora-regular", serif;
-	font-size: 1.7rem;
-	line-height: 2rem;
+	font-size: 3rem;
+	line-height: 3rem;
+	margin: 4rem;
 	color: #6e6e6e;
 }
 
@@ -1563,7 +1564,7 @@ header .logo a {
 	line-height: 1;
 }
 .about-content .skill-bars {
-	margin-top: 6rem;
+	margin-top: 8rem;
 }
 
 .button-section {
