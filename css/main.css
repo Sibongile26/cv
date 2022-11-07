@@ -1301,9 +1301,7 @@ header .logo a {
 #intro {
 	background: #1515150f url(https://media.discordapp.net/attachments/1036901076533776384/1036901274051940373/IMG_20221024_093116.jpg?width=466&height=585) no-repeat center bottom;
 	-webkit-background-size: 50rem;
-	-moz-background-size: 100%;
-	background-size: 75vw 100vh;
-	background-attachment: fixed;
+	-moz-background-size: cover;
 	width: 100%;
 	height: 210rem;
 	min-height: 50rem;
@@ -1311,6 +1309,9 @@ header .logo a {
 	position: relative;
 	text-align: center;
 	
+	background-position: top;
+	background-repeat: no-repeat;
+	background-size: cover;
 	
 	
 }
@@ -1560,7 +1561,7 @@ header .logo a {
 	display: block;
 	font-family: "poppins-regular", sans-serif;
 	color: #888888;
-	font-size: 3rem;
+	font-size: 2.1rem;
 	line-height: 1;
 }
 .about-content .skill-bars {
