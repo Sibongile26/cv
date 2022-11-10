@@ -1565,7 +1565,7 @@ header .logo a {
 	line-height: 1;
 }
 .about-content .skill-bars {
-	margin-top: 8rem;
+	margin-top: 10rem;
 }
 
 .button-section {
@@ -1593,6 +1593,7 @@ header .logo a {
 	.intro-info img {
 		height: 7.8rem;
 		width: 7.8rem;
+	
 	}
 	.intro-info .lead {
 		padding-left: 11rem;
