@@ -1122,7 +1122,7 @@ header .logo a {
 	color: transparent;
 	width: 80px;
 	height: 50px;
-	background: url(/images/stn-logo-png.png) no-repeat center;
+	background: url(../images/stn-logo-png.png) no-repeat center;
 	background-size: 80px 50px;
 	border-radius: 30px;
 	
