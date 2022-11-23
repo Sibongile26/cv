@@ -1525,7 +1525,8 @@ header .logo a {
 	color: #eee;
 	border-radius: 50%;
 	margin: .9rem 0 0 0;
-	float: left;
+	float: 90rem;
+
 
 }
 .intro-info .lead {
